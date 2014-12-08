@@ -1,0 +1,12 @@
+{
+    "name": "oytuntez/evenire",
+    "description": "Asynchronous PHP Events",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oytun Tez",
+            "email": "oytuntez@gmail.com"
+        }
+    ],
+    "require": {}
+}
